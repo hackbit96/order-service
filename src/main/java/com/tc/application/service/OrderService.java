@@ -1,7 +1,6 @@
-package com.tc.service;
+package com.tc.application.service;
 
-import com.tc.model.request.Order;
-import com.tc.shared.dto.ApiResponse;
+import com.tc.domain.model.Order;
 import reactor.core.publisher.Mono;
 
 public interface OrderService {

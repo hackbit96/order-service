@@ -1,6 +1,12 @@
-com\tc\controller\OrderController.class
-com\tc\model\Order.class
-com\tc\service\OrderService.class
-com\tc\model\Item.class
-com\tc\config\AzureStorageConfig.class
+com\tc\shared\exception\ApiResponseCode.class
+com\tc\domain\model\Order.class
+com\tc\shared\exception\BusinessException.class
+com\tc\infrastructure\config\AzureStorageConfig.class
+com\tc\shared\dto\ApiResponse.class
+com\tc\application\service\OrderServiceImpl.class
 com\tc\OrderServiceApplication.class
+com\tc\domain\model\Item.class
+com\tc\interfaces\controller\OrderController.class
+com\tc\interfaces\handler\GlobalExceptionHandler.class
+com\tc\shared\exception\IntegrationException.class
+com\tc\application\service\OrderService.class
