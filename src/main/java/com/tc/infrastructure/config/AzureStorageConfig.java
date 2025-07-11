@@ -1,4 +1,4 @@
-package com.tc.config;
+package com.tc.infrastructure;
 
 import com.azure.storage.queue.QueueAsyncClient;
 import com.azure.storage.queue.QueueClientBuilder;

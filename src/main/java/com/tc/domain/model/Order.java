@@ -1,4 +1,4 @@
-package com.tc.model;
+package com.tc.model.request;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

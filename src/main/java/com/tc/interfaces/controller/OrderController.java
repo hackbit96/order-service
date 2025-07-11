@@ -1,6 +1,6 @@
-package com.tc.controller;
+package com.tc.interfaces;
 
-import com.tc.model.Order;
+import com.tc.model.request.Order;
 import com.tc.service.OrderService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
