@@ -1,0 +1,6 @@
+com\tc\controller\OrderController.class
+com\tc\model\Order.class
+com\tc\service\OrderService.class
+com\tc\model\Item.class
+com\tc\config\AzureStorageConfig.class
+com\tc\OrderServiceApplication.class
